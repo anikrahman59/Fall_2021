@@ -1,0 +1,29 @@
+[
+    {
+        "fname": "Salman",
+        "lname": "Habib",
+        "age": "222",
+        "Designation": "Junior Programmer",
+        "email": "p.i.eje.r.ry.2@gmail.com",
+        "password": "12345678",
+        "image": null
+    },
+    {
+        "fname": "Salman",
+        "lname": "Habib",
+        "age": "22",
+        "Designation": "Junior Programmer",
+        "email": "brumsnightwing@gmail.com",
+        "password": "12345678",
+        "image": null
+    },
+    {
+        "fname": "Salman",
+        "lname": "Habib",
+        "age": "22",
+        "Designation": "Project Leader",
+        "email": "swatihiremath55@gmail.com",
+        "password": "12345678",
+        "image": null
+    }
+]
